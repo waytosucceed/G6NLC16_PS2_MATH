@@ -1,0 +1,235 @@
+{
+  "heading": "Fractions",
+  "topics": [
+    {
+      "heading": "Fractions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The traveller gives them water bottles. They need to fill in the blank boxes with your help to complete his first challenge.<br><img width='45%' src='./assests/images/1.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "water bottles in each group.", "operator": "" }
+            ]
+          },
+          "answer": ["10"]
+        },
+        {
+          "questionNo": 2,
+          "question": "The traveler hands over some desert fruits. Help them by filling in the blanks.<br><img width='45%' src='./assests/images/2.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "fruits in each group.", "operator": "" }
+            ]
+          },
+          "answer": ["6"]
+        },
+        {
+          "questionNo": 3,
+          "question": "They find maps rolled up in tubes. The traveler asks them to divide them equally. Help her by filling in the blanks.<br><img width='45%' src='./assests/images/3.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "maps in each group.", "operator": "" }
+            ]
+          },
+          "answer": ["7"]
+        },{
+          "questionNo": 4,
+          "question": "The traveler shows them a pouch of shiny stones. Fill in the empty blanks to make the groups.<br><img width='45%' src='./assests/images/4.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "pouches in each group.", "operator": "" }
+            ]
+          },
+          "answer": ["10"]
+        },{
+          "questionNo": 5,
+          "question": "Jenny finds a box of walkie-talkies. The traveler wants them placed evenly into supply kits. Help them by filling the missing numbers in the blanks.<br><img width='45%' src='./assests/images/5.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "walkie-talkies in each group.", "operator": "" }
+            ]
+          },
+          "answer": ["14"]
+        },
+        {
+          "questionNo": 6,
+          "question": "The traveler showed them a picture of hats. Fill in the blanks to complete the division statement.<br><img width='45%' src='./assests/images/6.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "hats in each group.", "operator": "" }
+            ]
+          },
+          "answer": ["15"]
+        },
+        {
+          "questionNo": 7,
+          "question": "The traveler showed them toy cars.  Fill in the blanks to complete the division statement.<br><img width='45%' src='./assests/images/7.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "toy cars in each group.", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 30 ÷ 5 =", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["6","6"]
+        },
+        {
+          "questionNo": 8,
+          "question": "The traveller showed them chocolates. Fill in the blanks to complete the division statement.<br><img width='45%' src='./assests/images/8.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "chocolates in each group.", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 55 ÷ 5 =", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["11","11"]
+        },
+        {
+          "questionNo": 9,
+          "question": "Burgers are given below in groups Fill in the blanks to complete the division statement.<br><img width='45%' src='./assests/images/9.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "burgers in each group.", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 72 ÷ 6 =", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["12","12"]
+        },
+        {
+          "questionNo": 10,
+          "question": "The traveler showed them a picture of books and asked them to sort them. Fill in the blanks to complete the division statement.<br><img width='45%' src='./assests/images/10.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "There are", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "books in each group.", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 64 ÷ 8 =", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["8","8"]
+        },
+        {
+          "questionNo": 11,
+          "question": "Arina saw 28 tennis balls. The tennis balls are arranged in tubes of 7.<br><img width='45%' src='./assests/images/11.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "How many groups of", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "do you need to make 28?", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 28 ÷ ", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "=", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["7","7","4"]
+        },
+        {
+          "questionNo": 12,
+          "question": "Jenny needs to pack 42 pencils into pencil cases. Each case holds 6 pencils.<br><img width='45%' src='./assests/images/12.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "How many groups of", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "do you need to make 42?", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 42 ÷ ", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "=", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["6","6","7"]
+        },
+        {
+          "questionNo": 13,
+          "question": "Arina and Jenny had 45 cupcakes. They put 5 cupcakes in each box.<br><img width='45%' src='./assests/images/13.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "How many groups of", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "do you need to make 45?", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 45 ÷ ", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "=", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["5","5","9"]
+        },
+        {
+          "questionNo": 14,
+          "question": "Aiden has 16 apples and wants to put them in baskets of 4.<br><img width='45%' src='./assests/images/14.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "How many groups of", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "do you need to make 16?", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 16 ÷ ", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "=", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["4","4","4"]
+        },
+        {
+          "questionNo": 15,
+          "question": "Jenny has 32 toy cars. He wants to place 8 cars on each shelf.<br><img width='45%' src='./assests/images/15.png'>",
+          "inputBox": {
+            "row1": [
+              { "operand": "How many groups of", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "do you need to make 32?", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "So, 32 ÷ ", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "=", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["8","8","4"]
+        }
+      ]
+      
+    }
+  ]
+}
